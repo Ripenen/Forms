@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6cf735cd6edeaec4aa33d537db47ddee, type: 3}
+  m_Name: Triangle3
+  m_EditorClassIdentifier: 
+  Form: {fileID: 1552780338003712464, guid: d7d56ea361e5e034bac67fffe0274e6d, type: 3}
+  Barricade: {fileID: 8424142626793494367, guid: aeb2348c2b1f5ed4eb14ac3471f1d7f8,
+    type: 3}
